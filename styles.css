@@ -33,8 +33,9 @@ header img {
     width: 200px;
     height: 200px;
     object-fit: cover;
-    border-radius: 1px;
-    margin-left: auto;
+    border-radius: 1px
+    float: right;
+    margin-left: 1rem;
 }
 
 nav {
